@@ -1,13 +1,13 @@
 package com.tibame.order.model;
 
 public class OrderVO {
-	private Integer ordId;
+	private Integer xxx;
 	private Integer memId;
 	public Integer getOrdId() {
-		return ordId;
+		return xxx;
 	}
 	public void setOrdId(Integer ordId) {
-		this.ordId = ordId;
+		this.xxx = ordId;
 	}
 	public Integer getMemId() {
 		return memId;
